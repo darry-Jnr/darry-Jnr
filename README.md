@@ -1,15 +1,16 @@
-
 <div align="center">
 
 # Darry Jnr
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=6B7280&center=true&vCenter=true&width=500&lines=Frontend+Developer;Problem+Solver;Building+Things+for+the+Web" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=6B7280&center=true&vCenter=true&width=600&lines=Frontend+Developer;Problem+Solver;Always+Building+Something+New" />
 
 <br />
 
-I enjoy solving problems, building products, and creating experiences that feel simple and intuitive.
+I enjoy building things that solve real problems.
 
-If you're building something interesting and need a developer to collaborate with, feel free to reach out.
+When I'm not coding, I'm probably watching football, playing football, or exploring new ideas.
+
+If you'd like to collaborate on something interesting — or just chat — my inbox is open.
 
 <br />
 
@@ -22,15 +23,6 @@ If you're building something interesting and need a developer to collaborate wit
 </a>
 
 </div>
-
----
-
-## About Me
-
-- Building modern web applications
-- Focused on clean UI and great user experiences
-- Always learning and experimenting
-- Open to collaborations and hackathons
 
 ---
 
@@ -53,15 +45,5 @@ If you're building something interesting and need a developer to collaborate wit
 <br />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darry-Jnr&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let's Build Something Cool
-
-Whether it's a startup, hackathon project, open-source contribution, or just an interesting idea, I'm always open to collaborating.
 
 </div>
