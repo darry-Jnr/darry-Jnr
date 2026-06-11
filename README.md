@@ -2,7 +2,7 @@
 
 # Darry Jnr
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=6B7280&center=true&vCenter=true&width=600&lines=Frontend+Developer;Problem+Solver;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=6B7280&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Problem+Solver;Always+Building+Something+New" />
 
 <br />
 
