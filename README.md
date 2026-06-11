@@ -1,43 +1,67 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&secondaryColor=4facfe&height=180&section=header&text=Darry%20Jnr&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=darry-Jnr&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  </p>
+# Darry Jnr
 
-  <h1>🧬 Engineering High-Performance Web Applications</h1>
-  <p>Full-Stack Developer focused on translating complex UI/UX designs into pixel-perfect, scalable code.</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=6B7280&center=true&vCenter=true&width=500&lines=Frontend+Developer;Problem+Solver;Building+Things+for+the+Web" />
+
+<br />
+
+I enjoy solving problems, building products, and creating experiences that feel simple and intuitive.
+
+If you're building something interesting and need a developer to collaborate with, feel free to reach out.
+
+<br />
+
+<a href="https://github.com/darry-Jnr">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
 </div>
 
 ---
 
-### 🖥️ Core Tech Stack & Ecosystem
+## About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+- Building modern web applications
+- Focused on clean UI and great user experiences
+- Always learning and experimenting
+- Open to collaborations and hackathons
 
 ---
 
-### 📊 Real-Time Performance Matrix
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darry-Jnr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darry-Jnr&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darry-Jnr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="62%" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,supabase,git,figma" />
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=darry-Jnr&show_icons=true&hide_border=true&rank_icon=github" />
+
+<br />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darry-Jnr&layout=compact&hide_border=true" />
+
+</div>
 
 ---
 
 <div align="center">
-  <h3>🤝 Network & Collaborations</h3>
-  <a href="https://linkedin.com/in/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+### Let's Build Something Cool
+
+Whether it's a startup, hackathon project, open-source contribution, or just an interesting idea, I'm always open to collaborating.
+
 </div>
