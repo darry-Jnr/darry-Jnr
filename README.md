@@ -1,11 +1,12 @@
 <div align="center">
 
-  <!-- Minimal Header Graphic -->
-  <img src="https://vercel.app" width="100%" />
-
+  <!-- Bold Central Typography Statement -->
+  <br />
+  <h1>⚡ I AM DARRY ⚡</h1>
+  <p><b>Full-Stack Developer & Product Builder</b></p>
   <br />
 
-  <!-- Pacman Action Widget -->
+  <!-- Pacman Contribution Matrix -->
   <picture data-importer="pacman">
     <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
     <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
@@ -14,27 +15,27 @@
 
   <br /><br />
 
-  <!-- Symmetrical Tech Stack Icons -->
+  <!-- Symmetrical Tech Grid -->
   <img src="https://skillicons.dev" />
 
   <br /><br />
-  <hr width="50%" />
+  <hr width="30%" />
   <br />
 
-  <!-- Sleek Borderless Metric Cards -->
+  <!-- Performance Cards -->
   <img src="https://vercel.app" height="150" />
   <img src="https://vercel.app" height="150" />
 
   <br /><br />
 
-  <!-- Minimal Social Gateway Icons -->
+  <!-- Social Icons -->
   <div data-importer="socials">
     <a href="https://x.com" target="_blank">
-      <img src="https://githubusercontent.com" width="30" height="20" alt="twitter" />
+      <img src="https://githubusercontent.com" width="28" height="18" alt="twitter" />
     </a>
     &nbsp;&nbsp;
     <a href="https://discord.com" target="_blank">
-      <img src="https://githubusercontent.com" width="30" height="20" alt="discord" />
+      <img src="https://githubusercontent.com" width="28" height="18" alt="discord" />
     </a>
   </div>
 
